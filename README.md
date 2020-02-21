@@ -1,4 +1,4 @@
-# Scripts PostgreSQL Linux
+# Scripts para instalar o PostgreSQL no Linux
 Scripts para:
 - Instalação do PostgreSQL;
 - Criação de banco de dados;
