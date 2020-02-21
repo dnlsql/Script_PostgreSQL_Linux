@@ -1,2 +1,6 @@
-# Script-PostgreSQL-Linux
-Scripts para rodar os comandos, criação de tabelas e inclusão de registro
+# Scripts PostgreSQL Linux
+Scripts para:
+- Instalação do PostgreSQL;
+- Criação de banco de dados;
+- Criação de tabelas;
+- Inclusão de registros.
